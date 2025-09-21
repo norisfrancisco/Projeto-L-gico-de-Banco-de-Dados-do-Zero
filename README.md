@@ -28,8 +28,8 @@ Para uma visualização detalhada, consulte o arquivo `diagrama_relacional_ofici
 
 **1. Clone o Repositório:**
 ```bash
-git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-cd SEU-REPOSITORIO
+git clone [https://github.com/norisfrancisco/Projeto-L-gico-de-Banco-de-Dados-do-Zero]
+cd https://github.com/norisfrancisco
 ```
 
 **2. Inicie o Ambiente Docker:**
